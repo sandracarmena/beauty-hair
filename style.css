@@ -1157,13 +1157,13 @@ text-align: center;
   padding-left: 20px;
 }
 #hero {
-  background-image: url(images/mobile.png);
+  /*background-image: url(images/mobile.png);*/
   height: 70vh;
   padding: 0 80px;
   background-position: top 30% right 30px;
 }
 #hero video{
-  display: none;
+  /*display: none*/
 }
 #hero h2 {
 
