@@ -1163,7 +1163,8 @@ text-align: center;
   background-position: top 30% right 30px;
 }
 #hero video{
-  /*display: none*/
+  /*--display: none*/
+  
 }
 #hero h2 {
 
@@ -1184,6 +1185,7 @@ line-height: 70%;
 }
 #feature {
   justify-content: center;
+  margin-top: 25%;
 }
 #feature .fe-box {
  margin: 15px 15px;
@@ -1191,6 +1193,10 @@ line-height: 70%;
 #product1 .pro-container{
  justify-content: center;
 }
+#product2 .pro-container{
+  flex-wrap: nowrap;
+  justify-content: center;
+ }
 #product1 .pro{
   margin: 15px;
 }
